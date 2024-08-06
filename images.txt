@@ -1,1 +1,2 @@
 busybox:1.36.1-glibc
+clickhouse/clickhouse-server:24.3.3.102-alpine
